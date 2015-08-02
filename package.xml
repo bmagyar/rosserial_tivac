@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package>
+  <name>rosserial_tivac</name>
+  <version>0.0.0</version>
+  <description>The rosserial_tivac package</description>
+  <maintainer email="bence.magyar.robotics@gmail.com">Bence Magyar</maintainer>
+  <author email="bence.magyar.robotics@gmail.com">Bence Magyar</author>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
